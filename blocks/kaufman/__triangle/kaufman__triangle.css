@@ -8,3 +8,7 @@
   width: 877px;
   height: 877px;
 }
+
+.kaufman__triangle {
+  animation: rotation 20s linear infinite;
+}
